@@ -1,0 +1,54 @@
+*
+{
+    text-align: center;
+    margin: 3px;
+    padding: 3px;
+    color: white;
+}
+div#general
+{
+    margin: auto;
+    margin-top: 20px;
+    width: 960px;
+    height:520px;
+}
+div#Comentarios
+{
+    float: right;
+    width: 400px;
+    height: 500px;
+    background-color: green;
+    border:5px solid black;
+    background-color: black; 
+    border-radius: 25px;
+    box-sizing: border-box;
+}
+#imglk
+{
+    vertical-align: middle;
+}
+canvas#villaplatzi
+{
+    border:5px solid black;
+    background-color: black; 
+    border-radius: 25px;
+    box-sizing: border-box;
+
+}
+body
+ {
+    background-image: url(Wp.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+} 
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+#Creditos
+{
+    margin: auto;
+    margin-top: 10px;
+}
